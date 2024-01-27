@@ -30,5 +30,5 @@ while i < n:
         j += 1
     i += 1
 
-print(money, sum(money)) 
+print(money) 
 # پول های باقی مانده هرکس و جمع کل پول ها
